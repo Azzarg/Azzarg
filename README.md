@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Azzarg
 - 👀 I’m interested in Java for Minecraft
-- 🌱 I’m currently learning how to motivate myslef
+- 🌱 I’m currently learning how to motivate myself
 - 💞️ I’m looking to collaborate on Minecraft modding communitues
